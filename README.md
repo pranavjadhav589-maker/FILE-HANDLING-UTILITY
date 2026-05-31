@@ -105,3 +105,8 @@ IntelliJ IDEA / Eclipse / VS Code
 
 Outcome
 This project helped in understanding Java File Handling concepts and improved knowledge of input/output streams, exception handling, and data management using text files. It also provided hands-on experience in developing real-world Java applications involving file operations.
+
+
+##OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b96a1312-78a5-4912-8120-42aed4c0277e" />
